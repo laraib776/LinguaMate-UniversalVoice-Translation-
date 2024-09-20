@@ -21,7 +21,7 @@ To run LinguaMate, you'll need to have the following installed on your system:
 
 You can install the required libraries using pip:
 
-pip install tkinter googletrans pyttsx3 ctypes
+>> pip install tkinter googletrans pyttsx3 ctypes
 
 **Features**
 
