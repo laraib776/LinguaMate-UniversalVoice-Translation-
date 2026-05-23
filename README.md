@@ -56,7 +56,7 @@
 
 ---
 
-## ┌─── ✨ Key Features
+##  ✨ Key Features
 
 | 🌟 Feature | Details |
 |---|---|
@@ -68,7 +68,7 @@
 
 ---
 
-## ┌─── 🛠️ Technology Stack
+##  🛠️ Technology Stack
 
 ```
   ╭──────────────────┬──────────────────────────────────────────────╮
@@ -84,7 +84,7 @@
 
 ---
 
-## ┌─── 🚀 Installation & Setup
+##  🚀 Installation & Setup
 
 ### Step 1 — Install Python
 
@@ -121,7 +121,7 @@ python main.py
 
 ---
 
-## ┌─── 🎮 Usage Guide
+##  🎮 Usage Guide
 
 Once the application is running:
 
@@ -136,7 +136,7 @@ Once the application is running:
 
 ---
 
-## ┌─── 📁 Project Structure
+##  📁 Project Structure
 
 ```
 📦 LinguaMate-UniversalVoice-Translation/
@@ -150,7 +150,7 @@ Once the application is running:
 
 ---
 
-## ┌─── 🌐 Supported Languages  *(a few highlights)*
+##  🌐 Supported Languages  *(a few highlights)*
 
 ```
   🇬🇧 English    🇸🇦 Arabic     🇨🇳 Chinese    🇫🇷 French
@@ -161,7 +161,7 @@ Once the application is running:
 
 ---
 
-## ┌─── 🤝 Contributing
+##  🤝 Contributing
 
 Contributions are always welcome and appreciated! 💖
 
@@ -176,7 +176,7 @@ Ideas we'd love to see: auto language detection, translation history, a dark mod
 
 ---
 
-## ┌─── 📜 License
+##  📜 License
 
 LinguaMate is licensed under the **MIT License** — free to use, modify, and share.
 See the `LICENSE` file for full details.
@@ -190,7 +190,7 @@ See the `LICENSE` file for full details.
 ║                                                              ║
 ║   Every language is a window into a different world.         ║
 ║                                                              ║
-║      LinguaMate opens all 100 of them.  🌍🗣️💬              ║
+║      LinguaMate opens all 100 of them.  🌍🗣️💬              ║ 
 ║                                                              ║
 ║                Made with ❤️  by  Laraib Khalid               ║
 ║                                                              ║
