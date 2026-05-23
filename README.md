@@ -74,11 +74,11 @@
   ╭──────────────────┬──────────────────────────────────────────────╮
   │  Layer           │  Technology                                  │
   ├──────────────────┼──────────────────────────────────────────────┤
-  │  🐍  Language     │  Python 3.x                                 │
-  │  🖥️  GUI          │  Tkinter  (desktop interface)               │
-  │  🌐  Translation  │  Google Translate API  (googletrans)        │
-  │  🔊  Voice        │  pyttsx3  (text-to-speech engine)           │
-  │  ⚙️  System       │  ctypes  (system-level integration)         │
+  │  🐍  Language    │  Python 3.x                                 │
+  │  🖥️  GUI         │  Tkinter  (desktop interface)               │
+  │  🌐  Translation │  Google Translate API  (googletrans)        │
+  │  🔊  Voice       │  pyttsx3  (text-to-speech engine)           │
+  │  ⚙️  System      │  ctypes  (system-level integration)         │
   ╰──────────────────┴──────────────────────────────────────────────╯
 ```
 
