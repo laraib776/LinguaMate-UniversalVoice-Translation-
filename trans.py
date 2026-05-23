@@ -83,15 +83,15 @@ root.configure(bg="white")
 # LABELS
 
 # Translator Label 
-lab_txt = Label(root, text="Translator", font=("Time New Roman", 20, "bold"), bg="teal", fg="white")
+lab_txt = Label(root, text="Translator", font=("Time New Roman", 22, "bold"), bg="teal", fg="white")
 lab_txt.place(x=270, y=20, width=250, height=50)
 
 # source label 
-lab_txt = Label(root, text="Source Text", font=("Time New Roman", 12, "bold"), fg="black", bg="lightgray")
+lab_txt = Label(root, text="Source Text", font=("Time New Roman", 14, "bold"), fg="black", bg="lightgray")
 lab_txt.place(x=20, y=85, width=350, height=20)
 
 # destination label
-lab_txt = Label(root, text="Translated Text", font=("Time New Roman", 12, "bold"), fg="black", bg="lightgray")
+lab_txt = Label(root, text="Translated Text", font=("Time New Roman", 14, "bold"), fg="black", bg="lightgray")
 lab_txt.place(x=400, y=85, width=350, height=20)
 
 # voice label
