@@ -7,7 +7,6 @@ from googletrans import Translator, LANGUAGES
 import ctypes
 import os
 import pyttsx3
-import random
 
 ctypes.windll.shcore.SetProcessDpiAwareness(1)
 
