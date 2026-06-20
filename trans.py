@@ -53,10 +53,10 @@ def download():
     gender = comb_gen.get()
     speed = comb_speed.get()
     voices = engine.getProperty("voices")
-def change(text="type", src="English", dest="Hindi"):
-    trans = Translator()
-    trans1 = trans.translate(text, src=src, dest=dest)
-    return trans1.text
+# def change(text="type", src="English", dest="Hindi"):
+#     trans = Translator()
+#     trans1 = trans.translate(text, src=src, dest=dest)
+#     return trans1.text
     
     def setvoice():
         path = filedialog.askdirectory()
